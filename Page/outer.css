@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background-color: #FF008A;
+    border-right: 50px solid #37272E;
+    border-left: 50px solid #37272E;
+    border-bottom : 10px solid #37272E;
+    border-top: 10px solid #37272E;
+    border-radius: 3px;
+}
+#top{
+    margin-top: 4px;
+    
+}
+.abc{
+	background-color: white;
+}
+input.rs:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+input.rs:active{
+    background-color: chocolate;
+    color: navajowhite;
+}
+.abc:hover{
+    background-color: #FFE400; 
+}
