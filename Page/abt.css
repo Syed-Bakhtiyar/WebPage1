@@ -5,12 +5,16 @@ h1{
     background-color: #37272E;
     color: yellow;
     font-size: 40px;
+    border: 1px solid #37272E;
+    border-top-left-radius: 20px;
     text-align: center;
     margin-bottom: 0px;
     text-shadow: 2px 3px 2px #FF008A;
 }
 p{
     background-color: darkorange;
+    border: 1px solid darkorange;
+    border-bottom-right-radius: 20px;
     color: darkgreen;
     text-shadow: 1px 1px 1px lime;
     font-size: 24px;
